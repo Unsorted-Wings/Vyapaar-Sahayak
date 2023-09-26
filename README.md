@@ -113,7 +113,6 @@ Thank you for being a part of the Vyapaar Sahayak community!
 | Tirth Patel       | [LinkedIn](https://www.linkedin.com/in/tirth-patel-0a5a18257)          | [tirthptl2894@gmail.com](mailto:tirthptl2894@gmail.com)          |
 | Mohit Dadwani     | [LinkedIn](https://www.linkedin.com/in/mohit-dadwani-3b9b72273)        | [mohitdadwani4@gmail.com](mailto:mohitdadwani4@gmail.com)        |
 | Aatreyee Joshi    | [LinkedIn](https://www.linkedin.com/in/aatreyee-joshi-7b0515261)       | [joshiaatreyee@gmail.com](mailto:joshiaatreyee@gmail.com)        |
-|-------------------|------------------------------------------------------------------------|------------------------------------------------------------------|
 
 
 
