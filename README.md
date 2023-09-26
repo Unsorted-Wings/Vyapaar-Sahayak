@@ -32,9 +32,9 @@ Here are the technologies and tools we used to build our solution:
 * **Google Maps API**
 * [More technologies/tools used]
 
-## Project Features and Functionality ✨
-
 Our solution, "Vyapaar Sahayak," offers a wide range of features and functionality designed to empower micro and small enterprises (MSEs):
+
+## Project Features and Functionality ✨
 
 1. **Online Presence:** The app provides MSEs with a much-needed online presence, allowing them to reach a broader audience and showcase their products or services.
 
@@ -58,14 +58,60 @@ Our solution, "Vyapaar Sahayak," offers a wide range of features and functionali
 
 We believe that Vyapaar Sahayak will revolutionize the way micro and small enterprises operate, fostering growth, resilience, and economic contribution to local communities.
 
+## Challenges and Solutions 🧠
+
+## Future Enhancements 🚧
+
+We have ambitious plans to further improve and expand Vyapaar Sahayak in the future. Here are some key areas of focus for our upcoming enhancements:
+
+1. **Enhanced AI Capabilities:** Continuously improving our AI algorithms to provide even more accurate and valuable insights to micro and small enterprises.
+
+2. **Advanced Logistics Solutions:** Expanding our in-house delivery network to cover more regions and optimize delivery efficiency.
+
+3. **Integration with More Government Initiatives:** Aligning with additional government programs and incentives to better support local businesses.
+
+4. **Localization and Multilingual Support:** Enhancing the app's accessibility by offering support for multiple languages and catering to diverse regional markets.
+
+5. **Customer Feedback Mechanism:** Implementing a robust system for users to provide feedback and suggestions, helping us tailor the app to their evolving needs.
+
+6. **Scaling to New Markets:** Expanding our reach to connect MSEs and customers in new geographical areas, contributing to broader economic growth.
+
+7. **Advanced Sustainability Features:** Implementing more features to promote eco-friendly and sustainable practices among MSEs.
+
+8. **Improved User Experience:** Continuously refining the user interface and user experience to ensure a seamless and intuitive interaction for all users.
+
+9. **Comprehensive Training Modules:** Expanding the collection of training modules and resources to cover a wider range of business aspects.
+
+10. **Integration of Additional Payment Gateways:** Enabling support for multiple payment gateways to offer users more options for secure transactions.
+
+11. **Real-Time Analytics Dashboard:** Providing users with real-time data insights and performance analytics to make data-driven decisions.
+
+12. **Enhanced Community Engagement:** Strengthening the sense of community among MSEs by introducing forums, discussion boards, and networking events within the app.
+
+13. **Removing API dependencies:** In future we will work on creating our own presonlised APIs for order tracking, etc.
+
 ## Acknowledgments 🙌
+
+We would like to express our gratitude to the following individuals and organizations for their invaluable support and contributions to the development of Vyapaar Sahayak:
+
+- **[Department of Computer Science, Gujarat University]:** [for providing us guidance and required resources.]
+
+We are thankful for the unwavering support, mentorship, and encouragement we have received throughout this journey. Your guidance and expertise have been instrumental in shaping Vyapaar Sahayak into what it is today.
+
+We also extend our appreciation to our dedicated team members who have worked tirelessly to bring this vision to life. Your passion and commitment have been inspiring.
+
+Thank you for being a part of the Vyapaar Sahayak community!
 
 
 ## Get In Touch! 📬
 
-
-| Team Member |
 | Rohit Shukla | [![LinkedIn](https://linkedin.com/in/)](https://www.linkedin.com/in/rohit-shukla-a8729124b/) | [shuklarohit2105@gmail.com](mailto:shuklarohit2105@gmail.com) |
+| Ashish Vaghela | [![LinkedIn](https://linkedin.com/in/)](https://www.linkedin.com/in/ashish-codejourney/) | [vaghelaashish111gmail.com](mailto:vaghelaashish111@gmail.com) |
+| Dev Patel | [![LinkedIn](https://linkedin.com/in/)](https://www.linkedin.com/in/patel-dev-340877269) | [devpatel1828king@gmail.com](mailto:devpatel1828king@gmail.com) |
+| Tirth Patel | [![LinkedIn](https://linkedin.com/in/)](https://www.linkedin.com/in/tirth-patel-0a5a18257) | [tirthptl2894@gmail.com](mailto:tirthptl2894@gmail.com) |
+| Mohit Dadwani | [![LinkedIn](https://linkedin.com/in/)](https://www.linkedin.com/in/mohit-dadwani-3b9b72273) | [shuklarohit2105@gmail.com](mailto:mohitdadwani4@gmail.com) |
+| Aatreyee Joshi | [![LinkedIn](https://linkedin.com/in/)](https://www.linkedin.com/in/aatreyee-joshi-7b0515261) | [joshiaatreyee@gmail.com](mailto:joshiaatreyee@gmail.com) |
+
 
 
 
