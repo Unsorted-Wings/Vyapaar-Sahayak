@@ -105,12 +105,16 @@ Thank you for being a part of the Vyapaar Sahayak community!
 
 ## Get In Touch! 📬
 
-| Rohit Shukla | [![LinkedIn](https://linkedin.com/in/)](https://www.linkedin.com/in/rohit-shukla-a8729124b/) | [shuklarohit2105@gmail.com](mailto:shuklarohit2105@gmail.com) |
-| Ashish Vaghela | [![LinkedIn](https://linkedin.com/in/)](https://www.linkedin.com/in/ashish-codejourney/) | [vaghelaashish111gmail.com](mailto:vaghelaashish111@gmail.com) |
-| Dev Patel | [![LinkedIn](https://linkedin.com/in/)](https://www.linkedin.com/in/patel-dev-340877269) | [devpatel1828king@gmail.com](mailto:devpatel1828king@gmail.com) |
-| Tirth Patel | [![LinkedIn](https://linkedin.com/in/)](https://www.linkedin.com/in/tirth-patel-0a5a18257) | [tirthptl2894@gmail.com](mailto:tirthptl2894@gmail.com) |
-| Mohit Dadwani | [![LinkedIn](https://linkedin.com/in/)](https://www.linkedin.com/in/mohit-dadwani-3b9b72273) | [shuklarohit2105@gmail.com](mailto:mohitdadwani4@gmail.com) |
-| Aatreyee Joshi | [![LinkedIn](https://linkedin.com/in/)](https://www.linkedin.com/in/aatreyee-joshi-7b0515261) | [joshiaatreyee@gmail.com](mailto:joshiaatreyee@gmail.com) |
+| Team Member       | LinkedIn Profile                                                       | Email Address                                                    |
+|-------------------|------------------------------------------------------------------------|------------------------------------------------------------------|
+| Rohit Shukla      | [LinkedIn](https://www.linkedin.com/in/rohit-shukla-a8729124b/)        | [shuklarohit2105@gmail.com](mailto:shuklarohit2105@gmail.com)    |
+| Ashish Vaghela    | [LinkedIn](https://www.linkedin.com/in/ashish-codejourney/)            | [vaghelaashish111@gmail.com](mailto:vaghelaashish111@gmail.com)  |
+| Dev Patel         | [LinkedIn](https://www.linkedin.com/in/patel-dev-340877269)            | [devpatel1828king@gmail.com](mailto:devpatel1828king@gmail.com)  |
+| Tirth Patel       | [LinkedIn](https://www.linkedin.com/in/tirth-patel-0a5a18257)          | [tirthptl2894@gmail.com](mailto:tirthptl2894@gmail.com)          |
+| Mohit Dadwani     | [LinkedIn](https://www.linkedin.com/in/mohit-dadwani-3b9b72273)        | [mohitdadwani4@gmail.com](mailto:mohitdadwani4@gmail.com)        |
+| Aatreyee Joshi    | [LinkedIn](https://www.linkedin.com/in/aatreyee-joshi-7b0515261)       | [joshiaatreyee@gmail.com](mailto:joshiaatreyee@gmail.com)        |
+|-------------------|------------------------------------------------------------------------|------------------------------------------------------------------|
+
 
 
 
