@@ -64,9 +64,9 @@ We believe that Vyapaar Sahayak will revolutionize the way micro and small enter
 ## Get In Touch! 📬
 
 
-| Team Member | LinkedIn | Email |
-|---|---|---|---|
+| Team Member |
 | Rohit Shukla | [![LinkedIn](https://linkedin.com/in/)](https://www.linkedin.com/in/rohit-shukla-a8729124b/) | [shuklarohit2105@gmail.com](mailto:shuklarohit2105@gmail.com) |
+
 
 
 
