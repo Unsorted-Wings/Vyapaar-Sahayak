@@ -69,9 +69,11 @@ Vyapaar Sahayak offers a wide range of features and functionality designed to em
 - Removing API Dependencies
 
 ## Acknowledgments 🙌
-We extend our gratitude to:
-- [Department of Computer Science, Gujarat University]: [Provide details]
-- [Add more acknowledgments as needed]
+We would like to express our gratitude to the following individuals and organizations for their invaluable support and contributions to the development of Vyapaar Sahayak:
+
+- **[Department of Computer Science, Gujarat University]:** [for providing us guidance and required resources.]
+
+We are thankful for the unwavering support, mentorship, and encouragement we have received throughout this journey.
 
 ## Get In Touch! 📬
 | Team Member       | LinkedIn Profile                                     | Email Address                                 |
@@ -83,4 +85,3 @@ We extend our gratitude to:
 | Mohit Dadwani     | [LinkedIn](https://www.linkedin.com/in/mohit-dadwani-3b9b72273)        | mohitdadwani4@gmail.com                     |
 | Aatreyee Joshi    | [LinkedIn](https://www.linkedin.com/in/aatreyee-joshi-7b0515261)       | joshiaatreyee@gmail.com                    |
 
-[Department of Computer Science, Gujarat University]: [Provide details]
