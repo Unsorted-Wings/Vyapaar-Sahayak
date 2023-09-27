@@ -94,10 +94,10 @@ Vyapaar Sahayak stands as a comprehensive solution, revolutionizing the way micr
 - Removing API Dependencies
 
 ## Screenshots and Demos 📸
-![Screenshot 1](https://github.com/your-username/your-repository/raw/main/path/to/screenshot-1.png)
-![Screenshot 1](https://github.com/your-username/your-repository/raw/main/path/to/screenshot-1.png)
-![Screenshot 1](https://github.com/your-username/your-repository/raw/main/path/to/screenshot-1.png)
-![Screenshot 1](https://github.com/your-username/your-repository/raw/main/path/to/screenshot-1.png)
+![Screenshot 1](https://github.com/Unsorted-Wings/Vyapaar-Sahayak/blob/main/images/screenshot1.jpg)
+![Screenshot 2](https://github.com/Unsorted-Wings/Vyapaar-Sahayak/blob/main/images/screenshot2.jpg)
+![Screenshot 3](https://github.com/Unsorted-Wings/Vyapaar-Sahayak/blob/main/images/screenshot3.jpg)
+![Screenshot 4](https://github.com/Unsorted-Wings/Vyapaar-Sahayak/blob/main/images/screenshot4.jpg)
 
 
 ## Acknowledgments 🙌
