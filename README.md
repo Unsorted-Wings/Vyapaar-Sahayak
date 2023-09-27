@@ -110,3 +110,4 @@ We are thankful for the unwavering support, mentorship, and encouragement we hav
 | Mohit Dadwani     | [LinkedIn](https://www.linkedin.com/in/mohit-dadwani-3b9b72273)        | mohitdadwani4@gmail.com                     |
 | Aatreyee Joshi    | [LinkedIn](https://www.linkedin.com/in/aatreyee-joshi-7b0515261)       | joshiaatreyee@gmail.com                    |
 
+[Learn More](https://vyapaarsahayak.netlify.app/)
